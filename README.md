@@ -94,6 +94,7 @@ Very generic queries (e.g., *“Explain the document”*) may retrieve multiple 
 
 ## API endpoints
 **POST/upload**
+
 **POST/query**
 
 ## Design Highlights
