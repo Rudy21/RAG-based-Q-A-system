@@ -81,26 +81,6 @@ Very generic queries (e.g., *“Explain the document”*) may retrieve multiple 
 
 ---
 
-## 📁 Project Structure
-rag-qa-system/
-│
-├── app/
-│ ├── main.py
-│ ├── rag.py
-│ ├── vector_store.py
-│ ├── utils.py
-│ └── schemas.py
-│
-├── data/
-│ └── uploads/
-│
-├── README.md
-├── EXPLANATION.md
-├── architecture.png
-└── requirements.txt
-
-
-
 ## ▶️ Getting Started
 
 ## 1. Install Dependencies
